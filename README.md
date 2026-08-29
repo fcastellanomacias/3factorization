@@ -1,6 +1,6 @@
 # Factorization of birational morphisms between smooth threefolds (work in progress)
 
-Question: can every birational morphism between smooth projective threefolds be factored into smooth blowdowns and flops?
+Question: can every (toric) birational morphism between smooth projective (toric) threefolds be factored into a sequence of (torus-invariant) smooth blowdowns and flops?
 
 ---
 
