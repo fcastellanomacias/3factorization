@@ -1,4 +1,4 @@
-# Factorization of morphisms between smooth threefolds (work in progress)
+# Factorization of birational morphisms between smooth threefolds (work in progress)
 
 Question: can every birational morphism between smooth projective threefolds be factored into smooth blowdowns and flops?
 
